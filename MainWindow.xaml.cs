@@ -33,7 +33,6 @@ namespace imageCollageTool
                 "Image Files (*.jpg; *.jpeg; *.gif; *.bmp; *.png)|*.jpg; *.jpeg; *.gif; *.bmp; *.png";
             dialog.Multiselect = true;
             Random rand1 = new Random();
-            Random rand2 = new Random();
 
             if (dialog.ShowDialog() == true)
             {
@@ -41,11 +40,15 @@ namespace imageCollageTool
                 foreach(string image in images)
                 {
                     int rand1_1 = rand1.Next(0, 400);
-                    int rand2_2 = rand2.Next(0, 400);
+                    int rand2_2 = rand1.Next(0, 400);
+                    int rand3_3 = rand1.Next(0, 400);
+                    int rand4_4 = rand1.Next(0, 400);
                     var bitmap = new BitmapImage(new Uri(image));
                     var img = new Image { Source = bitmap };
                     Canvas.SetLeft(img, rand1_1);
                     Canvas.SetTop(img, rand2_2);
+                    Canvas.SetRight(img, rand3_3);
+                    Canvas.SetBottom(img, rand4_4);
                     canvas.Children.Add(img);
                 }
             }
