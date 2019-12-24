@@ -1,0 +1,14 @@
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\bin\Debug\imageCollageTool.exe.config
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\bin\Debug\imageCollageTool.exe
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\bin\Debug\imageCollageTool.pdb
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\obj\Debug\imageCollageTool.csprojAssemblyReference.cache
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\obj\Debug\MainWindow.g.cs
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\obj\Debug\App.g.cs
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\obj\Debug\imageCollageTool_MarkupCompile.cache
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\obj\Debug\imageCollageTool_MarkupCompile.lref
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\obj\Debug\MainWindow.baml
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\obj\Debug\imageCollageTool.g.resources
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\obj\Debug\imageCollageTool.Properties.Resources.resources
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\obj\Debug\imageCollageTool.csproj.GenerateResource.cache
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\obj\Debug\imageCollageTool.exe
+C:\Users\ZackF\source\repos\imageCollageTool\imageCollageTool\obj\Debug\imageCollageTool.pdb
